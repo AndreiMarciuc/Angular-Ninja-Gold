@@ -1,0 +1,15 @@
+.Activities{
+    border: 2px solid black;
+    margin: 50px 152px;
+    height: 200px;
+    width: 1136px;
+    padding: 10px;
+    overflow: scroll;
+    
+
+}
+
+li{
+    font-size: 12pt;
+color: tomato;
+}
